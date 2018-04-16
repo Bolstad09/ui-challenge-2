@@ -1,0 +1,47 @@
+
+* {
+  padding-left: 2%;
+}
+header {
+  text-decoration: underline;
+  padding-left: 15%;
+}
+input {
+  width: 24px;
+  height: 30px;
+  border: 1px solid gray;
+  background-image: url(/sprites/form-elements-sprite.png) -60px 0 no-repeat;
+}
+
+.start1 {
+    /* height: 300px; */
+    /* width: 20%; */
+    background-image: url(/sprites/form-elements-sprite.png) -60px 0 no-repeat;
+    background-position: 100px;
+}
+.div{
+  float: left;
+}
+.textBox {
+  width: 90%;
+  border-style: outset;
+}
+
+.dropDown {
+  width: 90%;
+  border-width: 2px;
+  border-style: outset;
+}
+
+.check {
+  border-style: outset;
+}
+
+.radio {
+  border-style: outset;
+}
+
+.button{
+  border-width: 2px;
+  border-style: outset;
+}
